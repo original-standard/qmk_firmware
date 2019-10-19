@@ -14,7 +14,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#pragma once
+#ifndef PRAC_H
+#define PRAC_H
 
 #include "quantum.h"
 
@@ -31,4 +32,4 @@
     { k00, k01, k02, k03 }\
 }
 
-
+#endif
